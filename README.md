@@ -1,4 +1,4 @@
-# raman-sc
+# raman-sc for Raman spectrum calculation with VASP
 It was revised from raman-sc: https://github.com/raman-sc/VASP
 
 For more information please visit: https://github.com/raman-sc/VASP/tree/master
